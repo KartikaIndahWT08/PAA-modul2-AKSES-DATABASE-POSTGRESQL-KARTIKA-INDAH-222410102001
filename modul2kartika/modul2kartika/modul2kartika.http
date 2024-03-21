@@ -1,0 +1,6 @@
+@modul2kartika_HostAddress = http://localhost:5046
+
+GET {{modul2kartika_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
