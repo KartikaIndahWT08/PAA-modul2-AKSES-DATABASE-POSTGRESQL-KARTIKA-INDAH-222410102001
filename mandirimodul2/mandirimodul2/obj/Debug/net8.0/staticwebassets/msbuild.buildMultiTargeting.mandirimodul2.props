@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\mandirimodul2.props" />
+</Project>
